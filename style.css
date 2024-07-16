@@ -1,0 +1,33 @@
+.form{
+    border: solid black 1px;
+    width: fit-content;
+    padding: 20px 20px 20px 20px;
+    background-image: url( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfCyOEc0bADQWarGB2ARkzQyYg4eGfWmx65w&s);
+    background-color: antiquewhite;
+    font-family:Arial;
+    margin-left: 40%;
+    color:rgb(238, 152, 47);
+    box-shadow:10px 10px 100px;
+    background-size: cover;
+    
+}
+h1{
+    text-align: center;
+}
+#button{
+    background-color: transparent;
+    color: rgb(16, 41, 208);
+    margin-left: 100px;
+}
+#button:hover{
+    scale: 1.2;
+    background-color: antiquewhite;
+}
+input{
+    background-color: transparent;
+    color: rgb(230, 230, 235);
+}
+#
+    
+
+

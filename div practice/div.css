@@ -1,0 +1,60 @@
+.yellow{
+    border: 2px solid rgb(9, 9, 9);
+    height: 150px;
+    width: 150px;
+    background-color:yellow;
+}
+.blue{
+    border: 2px solid rgb(9, 9, 9);
+    height: 150px;
+    width: 150px;
+    background-color:blue;
+
+}
+.red{
+    border: 2px solid rgb(9, 9, 9);
+    height: 150px;
+    width: 150px;
+    background-color:red;
+}
+
+.main2{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around ;
+}
+.green{
+    border: 2px solid rgb(9, 9, 9);
+    height: 150px;
+    width: 150px;
+    background-color:rgb(0, 255, 89);
+}
+.pink{
+    border: 2px solid rgb(9, 9, 9);
+    height: 150px;
+    width: 150px;
+    background-color:rgb(255, 0, 212);
+
+
+}
+.violet{
+    border: 2px solid rgb(9, 9, 9);
+    height: 150px;
+    width: 150px;
+    background-color:rgb(232, 152, 32);
+}
+.main3{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around ;
+    margin-top: 20px;
+
+}
+
+.main{
+    border: 2px solid black;
+    padding: 30px;
+    background-color: aqua;
+
+}
+
